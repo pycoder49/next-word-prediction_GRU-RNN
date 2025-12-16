@@ -15,4 +15,4 @@ Steps taken to implement the LSTM (GRU RNN):
     * Two LSTM layers
     * Dense output layer with softmax activation (multi-classification)
     * Uses early stop mechanism to prevent overfitting --> Monitors validation loss metric
-4. Deployed using Streamlit: [Check it out here!]([https://www.google.com](https://next-word-predictiongru-rnn-5pwr2zkncyzeekupkmpzhu.streamlit.app/))
+4. Deployed using Streamlit: [Check it out here!]([https://www.google.com](https://next-word-predictiongru-rnn-5pwr2zkncyzeekupkmpzhu.streamlit.app/)
